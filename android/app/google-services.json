@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "22165719006",
+    "project_id": "knitnest-d5e82",
+    "storage_bucket": "knitnest-d5e82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22165719006:android:784965f09698670967ff4f",
+        "android_client_info": {
+          "package_name": "com.example.knitnestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22165719006-17ukv5kei1md2rmq8eglukibpchjbufr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knitnestapp",
+            "certificate_hash": "6667b4f30d8c9e9fe1abf32993d1ddfef1a6cd5b"
+          }
+        },
+        {
+          "client_id": "22165719006-a8prdhs8ie70hdc82906eksiiri6b8ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqsu2XfEDPwN8H9nIFpzYBcXaVj4f0no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22165719006-a8prdhs8ie70hdc82906eksiiri6b8ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
